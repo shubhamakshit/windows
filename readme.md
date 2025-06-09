@@ -59,7 +59,7 @@ docker run -it --rm --name windows -p 8006:8006 --device=/dev/kvm --device=/dev/
 ##### Via Kubernetes:
 
 ```shell
-kubectl apply -f https://raw.githubusercontent.com/dockur/windows/refs/heads/master/kubernetes.yml
+kubectl apply -f https://raw.githubusercontent.com/shubhamakshit/windows/refs/heads/master/kubernetes.yml
 ```
 
 ##### Via Github Codespaces:
